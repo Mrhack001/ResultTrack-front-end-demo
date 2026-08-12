@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/reset-password", "destination": "/admin-login.html" },
+      { "source": "/lecturer-reset-password", "destination": "/lecturer-dash-login.html" }
+    ]
+  }
